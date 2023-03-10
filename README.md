@@ -1,0 +1,2 @@
+# ejerciciospyhton
+ejercicios en pyhton
